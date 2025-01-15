@@ -1,1 +1,2 @@
-Three.js applications that illustrate the fundamental knowledge I have in regards to three.js and javascript by rendering a cube onto the webpage
+This webpage will serve as a platfor to showcase the differen projects that i have created
+
